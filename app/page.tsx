@@ -29,14 +29,14 @@ export default function Home() {
       <section className="relative min-h-screen">
         <Image
           src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1600"
-          alt="Mow's Deli interior ambiance"
+          alt="Mow's Deli"
           fill
           priority
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-black/50" />
+        <div className="absolute inset-0 z-10 bg-black/50" />
 
-        <div className="absolute inset-0 flex items-center justify-center px-6 text-center">
+        <div className="relative z-20 flex min-h-screen items-center justify-center px-6 text-center">
           <div>
             <div className="mx-auto h-px w-16 bg-gold" />
             <p className="mt-4 font-lato text-sm uppercase tracking-widest text-gold">
