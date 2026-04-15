@@ -51,12 +51,22 @@ export default function Home() {
               New York soul · French heart · Toulouse
             </p>
 
-            <Link
-              href="/menu"
-              className="mt-8 inline-flex border border-gold px-8 py-3 font-lato text-sm uppercase tracking-widest text-gold transition-all hover:bg-gold hover:text-charcoal"
-            >
-              Voir le Menu
-            </Link>
+            <div className="mt-8 flex flex-wrap justify-center gap-4">
+              <Link
+                href="/menu"
+                className="inline-flex border border-gold px-8 py-3 font-lato text-sm uppercase tracking-widest text-gold transition-all hover:bg-gold hover:text-charcoal"
+              >
+                Voir le Menu
+              </Link>
+              <Link
+                href="https://maps.app.goo.gl/CiJ25s6BXGCAET6V7"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex bg-gold px-8 py-3 font-lato text-sm uppercase tracking-widest text-charcoal transition-all hover:bg-white hover:text-charcoal"
+              >
+                Nous Trouver
+              </Link>
+            </div>
           </div>
         </div>
       </section>
@@ -140,7 +150,7 @@ export default function Home() {
           Venez nous rendre visite
         </h2>
         <p className="mt-3 font-lato text-sm text-charcoal/70">
-          12 Rue de la République, Toulouse · Mar–Sam : 9h–19h
+          21 Rue de la Colombette, Toulouse · Mar–Sam : 9h–19h
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-4 px-6">
           <Link

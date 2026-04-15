@@ -33,7 +33,7 @@ export default function Footer() {
 
         <div className="font-lato text-sm">
           <h4 className="font-playfair text-lg">Visit Us</h4>
-          <p className="mt-3">12 Rue de la République, Toulouse</p>
+          <p className="mt-3">21 Rue de la Colombette, Toulouse</p>
           <p className="mt-2">Mar–Sam : 9h–19h</p>
         </div>
       </div>

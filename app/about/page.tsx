@@ -120,10 +120,10 @@ export default function AboutPage() {
               Nous trouver
             </p>
             <div className="font-lato text-sm leading-loose text-charcoal/80">
-              <p>12 Rue de la République</p>
+              <p>21 Rue de la Colombette</p>
               <p>31000 Toulouse</p>
               <p>contact@mowsdeli.fr</p>
-              <p>05 61 XX XX XX</p>
+              <p>06 99 76 12 46</p>
             </div>
           </div>
         </div>
