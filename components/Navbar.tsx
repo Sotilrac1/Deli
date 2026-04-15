@@ -25,7 +25,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 border-b border-gold bg-cream">
       <nav className="mx-auto flex w-full max-w-6xl items-center justify-between px-5 py-4">
         <Link href="/" className="font-playfair text-2xl text-charcoal">
-          Mow&apos;s Deli
+          Mow&apos;s Delicatessen
         </Link>
 
         <button

@@ -127,11 +127,7 @@ export default function ContactPage() {
                   <p className="font-lato text-sm leading-loose text-charcoal/80">
                     Lundi : Fermé
                     <br />
-                    Mardi – Vendredi : 9h – 19h
-                    <br />
-                    Samedi : 8h – 19h30
-                    <br />
-                    Dimanche : 9h – 14h
+                    10h-18h
                   </p>
                 </div>
 

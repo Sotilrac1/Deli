@@ -21,7 +21,8 @@ export default function AboutPage() {
           </h2>
           <div className="mx-auto mb-10 h-px w-16 bg-gold" />
           <p className="mb-6 font-lato text-base leading-relaxed text-charcoal/80">
-            Mow&apos;s Deli est né d&apos;une passion simple : réunir le meilleur
+            Mow&apos;s Delicatessen est né d&apos;une passion simple : réunir le
+            meilleur
             des deux mondes. L&apos;énergie brute des delis de New York — le
             pastrami fumé, les sandwiches généreux, l&apos;ambiance qui ne dort
             jamais — et la rigueur française dans le choix des produits, des
@@ -92,7 +93,7 @@ export default function AboutPage() {
           Le bon produit n&apos;a pas besoin d&apos;être compliqué.
         </p>
         <p className="mt-6 font-lato text-sm uppercase tracking-widest text-gold">
-          — Mow&apos;s Deli, Toulouse
+          — Mow&apos;s Delicatessen, Toulouse
         </p>
       </section>
 
@@ -109,9 +110,7 @@ export default function AboutPage() {
             </p>
             <ul className="font-lato text-sm leading-loose text-charcoal/80">
               <li>Lundi : Fermé</li>
-              <li>Mardi – Vendredi : 9h – 19h</li>
-              <li>Samedi : 8h – 19h30</li>
-              <li>Dimanche : 9h – 14h</li>
+              <li>10h-18h</li>
             </ul>
           </div>
 

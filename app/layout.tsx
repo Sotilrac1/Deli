@@ -18,9 +18,9 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "Mow's Deli | Charcuterie & Sandwiches Maison",
+  title: "Mow's Delicatessen | Charcuterie & Sandwiches Maison",
   description:
-    "Mow's Deli — charcuterie fine, fromages affinés et sandwiches maison à Toulouse.",
+    "Mow's Delicatessen — charcuterie fine, fromages affinés et sandwiches maison à Toulouse.",
 };
 
 export default function RootLayout({

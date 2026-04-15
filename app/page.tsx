@@ -29,7 +29,7 @@ export default function Home() {
       <section className="relative min-h-screen">
         <Image
           src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1600"
-          alt="Mow's Deli"
+          alt="Mow's Delicatessen"
           fill
           priority
           className="object-cover"
@@ -45,7 +45,7 @@ export default function Home() {
             <div className="mx-auto mt-4 h-px w-16 bg-gold" />
 
             <h1 className="mt-4 font-playfair text-6xl font-normal text-white md:text-8xl">
-              Mow&apos;s Deli
+              Mow&apos;s Delicatessen
             </h1>
             <p className="mt-2 font-lato text-lg italic text-white/70">
               New York soul · French heart · Toulouse
@@ -141,7 +141,7 @@ export default function Home() {
           New York soul, French heart.
         </p>
         <p className="mt-4 font-lato text-sm uppercase tracking-widest text-gold">
-          — Mow&apos;s Deli, Toulouse
+          — Mow&apos;s Delicatessen, Toulouse
         </p>
       </section>
 
@@ -150,7 +150,7 @@ export default function Home() {
           Venez nous rendre visite
         </h2>
         <p className="mt-3 font-lato text-sm text-charcoal/70">
-          21 Rue de la Colombette, Toulouse · Mar–Sam : 9h–19h
+          21 Rue de la Colombette, Toulouse · 10h-18h
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-4 px-6">
           <Link
