@@ -100,8 +100,8 @@ export default function Home() {
               Sandwiches du Jour
             </h2>
             <p className="font-lato text-sm text-charcoal/70">
-              Douze recettes uniques, inspirées des rues de New York et de
-              Paris
+              Douze recettes uniques, inspirées des rues de New York, Paris et de
+              Toulouse
             </p>
           </article>
         </div>
